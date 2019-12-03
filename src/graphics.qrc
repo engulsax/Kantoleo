@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>images/pauseButton.png</file>
+        <file>images/pauseButtonClicked.png</file>
+        <file>images/playButton.png</file>
+        <file>images/playButtonClicked.png</file>
+        <file>images/stopButton.png</file>
+        <file>images/stopButtonClicked.png</file>
+    </qresource>
+    <qresource prefix="/notes">
+        <file>images/eight.png</file>
+        <file>images/eightc.png</file>
+        <file>images/eightClicked.png</file>
+        <file>images/eightrest.png</file>
+        <file>images/eightrestClicked.png</file>
+        <file>images/half.png</file>
+        <file>images/halfc.png</file>
+        <file>images/halfClicked.png</file>
+        <file>images/notblad.png</file>
+        <file>images/quater.png</file>
+        <file>images/quaterc.png</file>
+        <file>images/quaterClicked.png</file>
+        <file>images/quaterrest.png</file>
+        <file>images/quaterrestClicked.png</file>
+        <file>images/eight180.png</file>
+        <file>images/half180.png</file>
+        <file>images/quater180.png</file>
+    </qresource>
+    <qresource prefix="/backgrund">
+        <file>images/backgrund.png</file>
+    </qresource>
+</RCC>
