@@ -1,3 +1,3 @@
 # Kantoleo
 Note player made with C++ using QT
-![Example Image](/img/Kantoleo.png)
+![Example Image](/img/Kantoleo.PNG)
